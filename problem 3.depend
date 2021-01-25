@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1584113660 source:c:\users\tarek\desktop\bioinformatics-2-2\data-structure\sheet\assignment 1\problem 3\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1584092823 c:\users\tarek\desktop\bioinformatics-2-2\data-structure\sheet\assignment 1\problem 3\matrix.h
+	<iostream>
+
+1584103174 source:c:\users\tarek\desktop\bioinformatics-2-2\data-structure\sheet\assignment 1\problem 3\matrix.cpp
+	"Matrix.h"
+
+1584103174 source:e:\bio-fci\bioinformatics-2-2\data-structure\sheet\assignment 1\problem 3\matrix.cpp
+	"Matrix.h"
+
+1584092823 e:\bio-fci\bioinformatics-2-2\data-structure\sheet\assignment 1\problem 3\matrix.h
+	<iostream>
+
+1584113837 source:e:\bio-fci\bioinformatics-2-2\data-structure\sheet\assignment 1\problem 3\main.cpp
+	<iostream>
+	"Matrix.h"
+
